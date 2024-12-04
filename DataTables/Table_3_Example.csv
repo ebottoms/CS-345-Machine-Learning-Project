@@ -1,0 +1,2 @@
+Type,BolusType,BolusDeliveryMethod,BG (mg/dL),SerialNumber,CompletionDateTime,InsulinDelivered,FoodDelivered,CorrectionDelivered,CompletionStatusDesc,BolexStartDateTime,BolexCompletionDateTime,BolexInsulinDelivered,BolexCompletionStatusDesc,StandardPercent,Duration (mins),CarbSize,TargetBG (mg/dL),CorrectionFactor,CarbRatio
+(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data)

@@ -1,0 +1,14 @@
+Tandem Diabetes Care Inc.,,,,,,,,,,,,,,,,,,,
+Source Daily Timeline Data Export,,,,,,,,,,,,,,,,,,,
+Patient Name,(Data),,,,,,,,,,,,,,,,,,
+Patient DOB,(Data),,,,,,,,,,,,,,,,,,
+Report Generated On,(Data),,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+DeviceType,SerialNumber,Description,EventDateTime,Readings (mg/dL),,,,,,,,,,,,,,,
+(Data),(Data),(Data),(Data),(Data),,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+DeviceType,SerialNumber,Description,EventDateTime,BG (mg/dL),Note,,,,,,,,,,,,,,
+(Data),(Data),(Data),(Data),(Data),(Data),,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Type,BolusType,BolusDeliveryMethod,BG (mg/dL),SerialNumber,CompletionDateTime,InsulinDelivered,FoodDelivered,CorrectionDelivered,CompletionStatusDesc,BolexStartDateTime,BolexCompletionDateTime,BolexInsulinDelivered,BolexCompletionStatusDesc,StandardPercent,Duration (mins),CarbSize,TargetBG (mg/dL),CorrectionFactor,CarbRatio
+(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data),(Data)

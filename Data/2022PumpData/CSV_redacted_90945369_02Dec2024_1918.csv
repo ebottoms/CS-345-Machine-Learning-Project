@@ -1,0 +1,13 @@
+﻿Tandem Diabetes Care Inc.,
+Source Daily Timeline Data Export,
+Patient Name,redacted
+Patient DOB,"redacted"
+Report Generated On,"Dec 2, 2024 at 7:18:08 PM"
+
+DeviceType,SerialNumber,Description,EventDateTime,Readings (mg/dL)
+
+
+DeviceType,SerialNumber,Description,EventDateTime,BG (mg/dL),Note
+
+
+Type,BolusType,BolusDeliveryMethod,BG (mg/dL),SerialNumber,CompletionDateTime,InsulinDelivered,FoodDelivered,CorrectionDelivered,CompletionStatusDesc,BolexStartDateTime,BolexCompletionDateTime,BolexInsulinDelivered,BolexCompletionStatusDesc,StandardPercent,Duration (mins),CarbSize,TargetBG (mg/dL),CorrectionFactor,CarbRatio
